@@ -18,6 +18,8 @@ public class MyClass {
 	{
 		return a/b;
 	}
+
+	
 	public static void main(String[] args) {		
 		MyClass ob = new MyClass();
 		System.out.println("Sum is : "+ob.sum(20, 10));
